@@ -14,3 +14,7 @@ int main()
 
 	return 0;
 }
+
+
+
+Ok so this could should produce the value "5".
