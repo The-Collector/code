@@ -8,4 +8,6 @@ alrighty now
 
 changes made on computer
 
-changes make on hard computer 
+changes make on hard computer
+
+Ok lets try again
