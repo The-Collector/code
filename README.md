@@ -7,3 +7,5 @@ Hmm why doesnt new line characters work
 alrighty now
 
 changes made on computer
+
+changes make on hard computer 
