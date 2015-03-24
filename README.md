@@ -6,3 +6,16 @@ int main()
 
 	return 0;
 }
+
+So this didnt work lets try again
+
+{
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "Is this better?";
+
+	return 0;
+}
+}
