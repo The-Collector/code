@@ -10,6 +10,8 @@ int main()
 	firstClass.getAge(18);
 
 	firstClass.OutputAge();
+
+	cout << "hi";
 	
 
 }
