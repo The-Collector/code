@@ -1,10 +1,15 @@
 #include <iostream>
+#include "MyHeader.h"
 #include <iomanip>
 using namespace std;
 
 int main()
 {
+	GetAgeClass firstClass;
 
-	cout << "hello world";
+	firstClass.getAge(18);
+
+	firstClass.OutputAge();
+	
 
 }
