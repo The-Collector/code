@@ -13,7 +13,5 @@ int main()
 
 	cout << "hi";
 	
-	cout << " no more hi";
-	
 
 }
