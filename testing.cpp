@@ -11,7 +11,7 @@ int main()
 
 	firstClass.OutputAge();
 
-	cout << "hi"f;
+	cout << "hi";
 	
 
 }
