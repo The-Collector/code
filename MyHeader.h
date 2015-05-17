@@ -15,7 +15,10 @@ class GetAgeClass
 	{
 		cout << age;
 	}
+	void SetName(string n) { name = n; }
+	string GetName() { return name; }
 	private:
+	string name;
 	int age;
 
 };
